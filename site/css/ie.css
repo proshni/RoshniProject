@@ -1,0 +1,6 @@
+
+.class { behavior:url(js/PIE.htc); position:absolute;}
+
+.sf-menu>li {background: #04b2ee;}
+	
+.sf-menu li:hover,li.current {	background: #0c629d;}
